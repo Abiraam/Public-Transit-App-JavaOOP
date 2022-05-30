@@ -1,7 +1,5 @@
 // Author: Abiraam Nagarajan
 // Filename: MilitaryCustomer.java
-// Specification: Military Customer extending the CustomerAbs Class
-// For: CS 2365 Object Oriented Programming Section 002
 
 import java.util.List;
 
