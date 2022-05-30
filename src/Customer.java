@@ -1,8 +1,5 @@
 // Author: Abiraam Nagarajan
 // Filename: Customer.java
-// Specification: Customer class specifications
-// For: CS 2365 Object Oriented Programming Section 002
-
 
 import java.io.*;
 import java.nio.file.Files;
