@@ -1,4 +1,4 @@
-# Public-Transit-App-JavaOOP
+# Public_Transit_App_JavaOOP
 
 #### Objective: Develop a Public Transit Application based on the given scenario
 
