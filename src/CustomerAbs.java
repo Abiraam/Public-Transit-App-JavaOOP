@@ -1,7 +1,5 @@
 // Author: Abiraam Nagarajan
 // Filename: CustomerAbs.java
-// Specification: Customer abstract classes for all instances
-// For: CS 2365 Object Oriented Programming Section 002
 
 import java.util.List;
 import java.util.Objects;
