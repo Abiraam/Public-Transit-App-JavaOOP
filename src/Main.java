@@ -1,7 +1,5 @@
 // Author: Abiraam Nagarajan
 // Filename: Main.java
-// Specification: Main function to check customer names & orders
-// For: CS 2365 Object Oriented Programming Section 002
 
 import java.io.*;
 import java.lang.reflect.Array;
